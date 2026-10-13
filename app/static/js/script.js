@@ -1,0 +1,1 @@
+console.log("FixNow JavaScript loaded successfully.");

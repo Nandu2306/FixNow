@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+
+/* Navigation */
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+
+/* Hero Section */
+
+.hero-section {
+    background-color: white;
+    padding: 90px 0;
+}
+
+
+.hero-section h1 {
+    color: #212529;
+}
+
+
+.hero-card {
+    background-color: #f8f9fa;
+    padding: 35px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+
+/* Services */
+
+.services-section {
+    background-color: #f8f9fa;
+}
+
+
+.service-card {
+    border: none;
+    border-radius: 15px;
+    transition: transform 0.2s;
+}
+
+
+.service-card:hover {
+    transform: translateY(-5px);
+}
+
+
+.service-icon {
+    font-size: 45px;
+}
+
+
+/* Footer */
+
+footer {
+    margin-top: 0;
+}
